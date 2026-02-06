@@ -1,7 +1,7 @@
 ![100-days-of-code](gifs/100DaysOfCode.gif)
 
 # 🐍 Python Portfolio
-Showcasing the projects I built while progressing through this amazing [Udemy Course](https://www.udemy.com/course/100-days-of-code/)
+Showcasing the projects I built as I progressed through this amazing [Udemy Course](https://www.udemy.com/course/100-days-of-code/)
 
 ## 🌱 Beginner 
 - [Day 1](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day001) Variables in Python to Manage Data
