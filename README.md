@@ -1,4 +1,4 @@
-![100-days-of-code](gifs/100DaysOfCode.gif)
+![100DaysOfCode](gifs/100DaysOfCode.gif)
 
 # 🐍 Python Portfolio
 Showcasing the projects I built as I progressed through this amazing [Udemy Course](https://www.udemy.com/course/100-days-of-code/)
@@ -17,7 +17,7 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - [Day 11](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day011) Blackjack Capstone Project
 - [Day 12](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day012) Scope and Number Guessing Game
 - [Day 13](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day013) Debugging: Finding and Fixing Errors
-- [Day 14](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day014) Higher-Lower Game Project
+- [Day 14](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day014) Higher-Lower Game 
 
 ## 🧩 Intermediate
 - [Day 15](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day015) Local Development Environment and Coffee Machine
@@ -35,7 +35,7 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - [Day 27](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day027) Tkinter, *args, **kwargs, and GUI Programs
 - [Day 28](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day028) Pomodoro GUI Application and Dynamic Typing
 - [Day 29](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day029) Password Manager GUI App with Tkinter
-- [Day 30](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day030) Errors, Exceptions, and JSON Data in Password Manager
+- [Day 30](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day030) Errors, Exceptions, and JSON Data - Improving Password Manager
 - [Day 31](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day031) Flash Card App Capstone Project
 
 ## 🔬 Intermediate+
@@ -62,7 +62,7 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - [Day 52](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day052) Instagram Follower Bot
 - [Day 53](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day053) Data Entry Automation: Web Scraping Capstone
 - [Day 54](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day054) Introduction to Web Development with Flask
-- [Day 55](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day055) Higher-Lower Game: HTML and URL Parsing in Flask
+- [Day 55](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day055) Higher-Lower Game - HTML and URL Parsing in Flask
 - [Day 56](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day056) Flask Templates and Static Files
 - [Day 57](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day057) Jinja Templating in Flask Applications
 - [Day 58](https://github.com/chaitanyakrishnakumar/100DaysOfCode/tree/main/Day058) Web Foundations with Bootstrap
